@@ -8,9 +8,3 @@
 | [hermoniq](https://github.com/aliahadmd/hermoniq)       | Harmoniq is a comprehensive mobile companion designed to help you organize your life. It combines a smart AI assistant, intuitive habit tracker, money manager, and daily planner into one unified experience. Built with React Native/Expo and powered by a scalable Cloudflare Workers backend. | App |
 
 
-
-## GitHub Overview
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahadmd&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
